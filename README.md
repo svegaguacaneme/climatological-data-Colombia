@@ -6,8 +6,8 @@ Includes a Python application that allows raw data downloaded from the IDEAM hyd
 
 ## How to use the Python application
 
-1. Download this repository
-2. Empty the “unprocessed-data” folder
+1. Download this repository.
+2. Empty the “unprocessed-data” folder.
 3. Store the raw files there in the format obtained from the IDEAM database. **Note:** Store the data for a single variable per station. If you want to process different variables from the same station, do one at a time.
 4. In the root of the repository, open the Command Prompt by pressing Shift + right-click and then Open in Terminal.
 5. Execute the code by typing followed by enter:
