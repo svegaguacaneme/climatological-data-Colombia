@@ -24,4 +24,4 @@ All contributions, ideas and bug reports are welcome! We encourage you to open a
 
 ## Sources
 
-1. This repository includes meteorological data downloaded from the “Consulta y Descarga de Datos Hidrometeorológicos” platform of Instituto de Hidrología, Meteorología y Estudios Ambientale (IDEAM), which therefore owns all intellectual and industrial property rights to its data. Source: IDEAM (02/12/2025). Consulta y Descarga de Datos Hidrometeorológicos. http://dhime.ideam.gov.co/atencionciudadano/.
+1. This repository includes meteorological data downloaded from the “Consulta y Descarga de Datos Hidrometeorológicos” platform of the Instituto de Hidrología, Meteorología y Estudios Ambientale (IDEAM), which therefore owns all intellectual and industrial property rights to its data. Source: IDEAM (02/12/2025). Consulta y Descarga de Datos Hidrometeorológicos. http://dhime.ideam.gov.co/atencionciudadano/.
