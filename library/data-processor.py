@@ -3,7 +3,6 @@
 
 import os
 import pandas as pd
-from openpyxl import load_workbook
 
 dir = {
     'Crudos': 'unprocessed-data',
@@ -113,4 +112,5 @@ comprimir_mediciones()
 output()
 
 os.system('cls' if os.name == 'nt' else 'clear')
+
 print('Execution completed\nGo to the root of the “output” folder and move the files to the corresponding subfolder.')
